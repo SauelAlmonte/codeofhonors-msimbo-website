@@ -2,7 +2,13 @@
   "devDependencies": {
     "live-server": "^1.2.1"
   },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.1"
+  },
   "scripts": {
-    "dev": "live-server"
-  }
+    "dev": "live-server",
+    "tw": "tailwindcss"
+    }
 }
