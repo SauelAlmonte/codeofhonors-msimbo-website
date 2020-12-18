@@ -128,13 +128,13 @@ header {
 
 /* Ahmed start */
 
-.main1 {
+/* .main1 {
     padding: 10px;
     height: 150vh;
     /*read more */
-    background: url("img/florian-olivo-4hbJ-eymZ1o-unsplash.jpg")
-    no-repeat center center/cover;
-}
+    /* background: url("img/old/florian-olivo-4hbJ-eymZ1o-unsplash.jpg") */
+    /* no-repeat center center/cover; */
+/* } */
 
 /* For msimbo logo*/
 .main2 {
@@ -225,7 +225,7 @@ overflow: hidden;
 #background {
     display: flex;
     justify-content: space-around;
-    background: url("img/triple-img-whole.png") no-repeat center center/cover;
+    background: url("img/old/triple-img-whole.png") no-repeat center center/cover;
     padding: 50px;
     padding-top: 180px;
 
@@ -265,16 +265,10 @@ overflow: hidden;
     border-radius: 0 15px 15px 0;
     padding: 20px;
     box-shadow: 1px 2px 2px 2px
-}
-
-
     font-family:  'Roboto Slab', serif;
     border: black;
     border-bottom: 1px;
 }
-
-
-
 
 hr {
 
@@ -285,12 +279,6 @@ hr {
 
 
 }
-
-
-
-
-
-
 
 .footer { 
     display: flex;
